@@ -1,4 +1,4 @@
-const productosCadenillas = [
+const productosManillas = [
 {
   nombre: "",
   descripcion: "",
@@ -6,9 +6,9 @@ const productosCadenillas = [
   precio: ".000"
 }
 ];
-  const contenedor = document.getElementById("catalogo-cadenillas");
+  const contenedor = document.getElementById("catalogo-manillas");
   
-  productosCadenillas.forEach(p => {
+  productosManillas.forEach(p => {
     const card = document.createElement("div");
     card.classList.add("producto");
   

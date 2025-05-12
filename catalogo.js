@@ -34,10 +34,10 @@ const categorias = [
   { 
     nombre: "Pulseras",
     imagen: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTETPShMDknvqxHqPLoY-gnIbhGAv_wBbkAycRBrTfjyboKhHChXSzY-tOnADzE5PwVWGHQ5t1wNuQDO6-8RNoatdfZIlBk3JlJNbI1eQFSijLOy8ubEubD4F8", // imagen representativa
-    enlace: "camandulas.html"
+    enlace: "pulseras.html"
   },
   { 
-    nombre: "aretes",
+    nombre: "Aretes",
     imagen: "https://cdn.quicksell.co/-MXrobxuYrIonL9U2XZ7/products/-NviBd3YuqFlvQZ_Sxz9.jpg", // imagen representativa
     enlace: "aretes.html"
   },

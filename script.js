@@ -1,40 +1,40 @@
 const productos = [
     {
-        nombre: "anillo rosa de plata",
-        precio: "120.000",
-        descripcion: "Anillo de plata con diseño minimalista y elegante.",
-        imagen: "img/rosa.png"
-
-    },
+    nombre: "Anillo Crystal Box ",
+    descripcion: "Ajustable",
+    imagen: "https://cdn.quicksell.co/-MXrobxuYrIonL9U2XZ7/products/-OKlMoJ9FUgikaQ3pIKj.jpg",
+    precio: "100.000"
+  },
+     {
+    nombre: "Anillo tifany liso",
+    descripcion: "Ajustable",
+    imagen: "https://cdn.quicksell.co/-MXrobxuYrIonL9U2XZ7/products/-OKlM7Qhd5oJRtj2n0TQ.jpg",
+    precio: "100.000"
+  },
     {
-        nombre: "collar oro minimalista",
-        precio: "250.000",
-        descripcion: "Collar de oro con diseño minimalista y elegante.",
-        imagen: "img/mini.webp"
-    },
+    nombre: "Tobillera Serpiente",
+    descripcion: "Diseño clásico 25cm.",
+    imagen: "https://cdn.quicksell.co/-MXrobxuYrIonL9U2XZ7/products/-O39p9ku2kJLhS-UO5Bs.jpg",
+    precio: "100.000"
+  },
     {
-        nombre: "anillo oro",
-        precio: "150.000",
-        descripcion: "Anillo de oro con diseño clásico y elegante.",
-        imagen: "img/ring.jpg"
-    },
+    nombre: "Argolla lucky clover",
+    descripcion: "Consultar tallas",
+    imagen: "https://cdn.quicksell.co/-MXrobxuYrIonL9U2XZ7/products/-O-MWztwcQiyda4bM1OD.jpg",
+    precio: "190.000"
+  },
+    { 
+    nombre: "Topo caballo",
+    descripcion: "Figura de caballito",
+    precio: "35.000",
+    imagen: "https://cdn.quicksell.co/-MXrobxuYrIonL9U2XZ7/products/-NviBd3YuqFlvQZ_Sxz9.jpg", // imagen representativa
+    enlace: "aretes.html"
+  },
     {
-        nombre: "collar de perlas",
-        precio: "200.000",
-        descripcion: "Collar de perlas con diseño clásico y elegante.",
-        imagen: "img/perla.jpg"
-    },
-    {
-        nombre: "pulsera de oro",
-        precio: "180.000",
-        descripcion: "Pulsera de oro con diseño minimalista y elegante.",
-        imagen: "img/esclava.webp"
-    },
-    {
-        nombre: "aretes de plata",
-        precio: "90.000",
-        descripcion: "Aretes de plata con diseño minimalista y elegante.",
-        imagen: "img/arete.avif"
+        nombre: "Arete pavo real",
+        precio: "65.000",
+        descripcion: "Color verde elegante",
+        imagen: "https://cdn.quicksell.co/-MXrobxuYrIonL9U2XZ7/products/-N7Ymnzb_GEdH44ClwJP.jpg"
     }
 ];
 
